@@ -14,7 +14,7 @@ In order to load the challenge, I first needed create a clone repository to uplo
 
 A link to the repository: https://github.com/eddygoto/Horiseon
 A link to the deployed application: https://eddygoto.github.io/Horiseon/
-A screenshot of the website: ![Screenshot of Horiseon](./02-Challenge/Develop/assets/images/Horiseon_Complete.png)
+A screenshot of the website: ![Screenshot of Horiseon](./Develop/assets/images/Horiseon_Complete.png)
 
 ## Credits
 
